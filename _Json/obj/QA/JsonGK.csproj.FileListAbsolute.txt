@@ -1,0 +1,17 @@
+C:\Projects\GKApi\JsonGK\bin\QA\JsonGK.dll
+C:\Projects\GKApi\JsonGK\bin\QA\Microsoft.Web.Infrastructure.dll
+C:\Projects\GKApi\JsonGK\bin\QA\Newtonsoft.Json.dll
+C:\Projects\GKApi\JsonGK\bin\QA\System.Web.Helpers.dll
+C:\Projects\GKApi\JsonGK\bin\QA\System.Web.Mvc.dll
+C:\Projects\GKApi\JsonGK\bin\QA\System.Web.Razor.dll
+C:\Projects\GKApi\JsonGK\bin\QA\System.Web.WebPages.Deployment.dll
+C:\Projects\GKApi\JsonGK\bin\QA\System.Web.WebPages.dll
+C:\Projects\GKApi\JsonGK\bin\QA\System.Web.WebPages.Razor.dll
+C:\Projects\GKApi\JsonGK\bin\QA\System.Web.Helpers.xml
+C:\Projects\GKApi\JsonGK\bin\QA\System.Web.Mvc.xml
+C:\Projects\GKApi\JsonGK\bin\QA\System.Web.Razor.xml
+C:\Projects\GKApi\JsonGK\bin\QA\System.Web.WebPages.xml
+C:\Projects\GKApi\JsonGK\bin\QA\System.Web.WebPages.Deployment.xml
+C:\Projects\GKApi\JsonGK\bin\QA\System.Web.WebPages.Razor.xml
+C:\Projects\GKApi\JsonGK\obj\QA\JsonGK.csprojResolveAssemblyReference.cache
+C:\Projects\GKApi\JsonGK\obj\QA\JsonGK.dll

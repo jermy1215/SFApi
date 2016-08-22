@@ -1,0 +1,41 @@
+C:\Users\reedj\Documents\Visual Studio 2013\Projects\GKAPIs\GKServices\JsonGK\JsonGK\bin\Release\JsonGK.dll
+C:\Users\reedj\Documents\Visual Studio 2013\Projects\GKAPIs\GKServices\JsonGK\JsonGK\bin\Release\JsonGK.pdb
+C:\Users\reedj\Documents\Visual Studio 2013\Projects\GKAPIs\GKServices\JsonGK\JsonGK\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\Users\reedj\Documents\Visual Studio 2013\Projects\GKAPIs\GKServices\JsonGK\JsonGK\bin\Release\Newtonsoft.Json.dll
+C:\Users\reedj\Documents\Visual Studio 2013\Projects\GKAPIs\GKServices\JsonGK\JsonGK\bin\Release\System.Web.Helpers.dll
+C:\Users\reedj\Documents\Visual Studio 2013\Projects\GKAPIs\GKServices\JsonGK\JsonGK\bin\Release\System.Web.Mvc.dll
+C:\Users\reedj\Documents\Visual Studio 2013\Projects\GKAPIs\GKServices\JsonGK\JsonGK\bin\Release\System.Web.Razor.dll
+C:\Users\reedj\Documents\Visual Studio 2013\Projects\GKAPIs\GKServices\JsonGK\JsonGK\bin\Release\System.Web.WebPages.Deployment.dll
+C:\Users\reedj\Documents\Visual Studio 2013\Projects\GKAPIs\GKServices\JsonGK\JsonGK\bin\Release\System.Web.WebPages.dll
+C:\Users\reedj\Documents\Visual Studio 2013\Projects\GKAPIs\GKServices\JsonGK\JsonGK\bin\Release\System.Web.WebPages.Razor.dll
+C:\Users\reedj\Documents\Visual Studio 2013\Projects\GKAPIs\GKServices\JsonGK\JsonGK\bin\Release\Microsoft.Web.Infrastructure.xml
+C:\Users\reedj\Documents\Visual Studio 2013\Projects\GKAPIs\GKServices\JsonGK\JsonGK\bin\Release\Newtonsoft.Json.xml
+C:\Users\reedj\Documents\Visual Studio 2013\Projects\GKAPIs\GKServices\JsonGK\JsonGK\bin\Release\System.Web.Helpers.xml
+C:\Users\reedj\Documents\Visual Studio 2013\Projects\GKAPIs\GKServices\JsonGK\JsonGK\bin\Release\System.Web.Mvc.xml
+C:\Users\reedj\Documents\Visual Studio 2013\Projects\GKAPIs\GKServices\JsonGK\JsonGK\bin\Release\System.Web.Razor.xml
+C:\Users\reedj\Documents\Visual Studio 2013\Projects\GKAPIs\GKServices\JsonGK\JsonGK\bin\Release\System.Web.WebPages.xml
+C:\Users\reedj\Documents\Visual Studio 2013\Projects\GKAPIs\GKServices\JsonGK\JsonGK\bin\Release\System.Web.WebPages.Deployment.xml
+C:\Users\reedj\Documents\Visual Studio 2013\Projects\GKAPIs\GKServices\JsonGK\JsonGK\bin\Release\System.Web.WebPages.Razor.xml
+C:\Users\reedj\Documents\Visual Studio 2013\Projects\GKAPIs\GKServices\JsonGK\JsonGK\obj\Release\JsonGK.csprojResolveAssemblyReference.cache
+C:\Users\reedj\Documents\Visual Studio 2013\Projects\GKAPIs\GKServices\JsonGK\JsonGK\obj\Release\JsonGK.dll
+C:\Users\reedj\Documents\Visual Studio 2013\Projects\GKAPIs\GKServices\JsonGK\JsonGK\obj\Release\JsonGK.pdb
+C:\Projects\GKApi\JsonGK\bin\Release\JsonGK.dll
+C:\Projects\GKApi\JsonGK\bin\Release\JsonGK.pdb
+C:\Projects\GKApi\JsonGK\bin\Release\Microsoft.Web.Infrastructure.dll
+C:\Projects\GKApi\JsonGK\bin\Release\Newtonsoft.Json.dll
+C:\Projects\GKApi\JsonGK\bin\Release\System.Web.Helpers.dll
+C:\Projects\GKApi\JsonGK\bin\Release\System.Web.Mvc.dll
+C:\Projects\GKApi\JsonGK\bin\Release\System.Web.Razor.dll
+C:\Projects\GKApi\JsonGK\bin\Release\System.Web.WebPages.Deployment.dll
+C:\Projects\GKApi\JsonGK\bin\Release\System.Web.WebPages.dll
+C:\Projects\GKApi\JsonGK\bin\Release\System.Web.WebPages.Razor.dll
+C:\Projects\GKApi\JsonGK\bin\Release\System.Web.Helpers.xml
+C:\Projects\GKApi\JsonGK\bin\Release\System.Web.Mvc.xml
+C:\Projects\GKApi\JsonGK\bin\Release\System.Web.Razor.xml
+C:\Projects\GKApi\JsonGK\bin\Release\System.Web.WebPages.xml
+C:\Projects\GKApi\JsonGK\bin\Release\System.Web.WebPages.Deployment.xml
+C:\Projects\GKApi\JsonGK\bin\Release\System.Web.WebPages.Razor.xml
+C:\Projects\GKApi\JsonGK\obj\Release\JsonGK.csprojResolveAssemblyReference.cache
+C:\Projects\GKApi\JsonGK\obj\Release\JsonGK.dll
+C:\Projects\GKApi\JsonGK\obj\Release\JsonGK.pdb
+C:\Projects\GKApi\JsonGK\bin\Release\Newtonsoft.Json.xml

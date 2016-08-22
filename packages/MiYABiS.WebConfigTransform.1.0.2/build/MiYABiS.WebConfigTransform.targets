@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+
+  <UsingTask TaskName="TransformXml" AssemblyFile="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Web\Microsoft.Web.Publishing.Tasks.dll" />
+
+  <Target Name="TransformLog4net" AfterTargets="PrepareForBuild" Condition="exists('log4net.$(Configuration).config')">
+		<Copy SourceFiles="log4net.config" DestinationFiles="$(IntermediateOutputPath)log4net.config" OverwriteReadOnlyFiles="true" />
+		<TransformXml Source="log4net.config" Destination="$(IntermediateOutputPath)log4net.config" Transform="log4net.$(Configuration).config" />
+		<Copy SourceFiles="$(IntermediateOutputPath)log4net.config" DestinationFiles="$(TargetDir)log4net.config" OverwriteReadOnlyFiles="true" />
+	</Target>
+  <Target Name="TransformLog4netCp" AfterTargets="PrepareForBuild" Condition="!exists('log4net.$(Configuration).config')">
+    <Copy Condition="exists('log4net.config')"
+			  SourceFiles="log4net.config" DestinationFiles="$(IntermediateOutputPath)log4net.config" OverwriteReadOnlyFiles="true" />
+    <Copy Condition="exists('$(IntermediateOutputPath)log4net.config')"
+			  SourceFiles="$(IntermediateOutputPath)log4net.config" DestinationFiles="$(TargetDir)log4net.config" OverwriteReadOnlyFiles="true" />
+  </Target>
+
+</Project>

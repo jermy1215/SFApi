@@ -1,0 +1,17 @@
+C:\Users\reedj\Documents\Visual Studio 2013\Projects\SFApi\_Utilities\bin\DEV\GKUtilities.dll
+C:\Users\reedj\Documents\Visual Studio 2013\Projects\SFApi\_Utilities\bin\DEV\JsonGK.dll
+C:\Users\reedj\Documents\Visual Studio 2013\Projects\SFApi\_Utilities\bin\DEV\Newtonsoft.Json.dll
+C:\Users\reedj\Documents\Visual Studio 2013\Projects\SFApi\_Utilities\bin\DEV\System.Web.Mvc.dll
+C:\Users\reedj\Documents\Visual Studio 2013\Projects\SFApi\_Utilities\bin\DEV\System.Web.Razor.dll
+C:\Users\reedj\Documents\Visual Studio 2013\Projects\SFApi\_Utilities\bin\DEV\System.Web.WebPages.Razor.dll
+C:\Users\reedj\Documents\Visual Studio 2013\Projects\SFApi\_Utilities\bin\DEV\System.Web.WebPages.dll
+C:\Users\reedj\Documents\Visual Studio 2013\Projects\SFApi\_Utilities\bin\DEV\Microsoft.Web.Infrastructure.dll
+C:\Users\reedj\Documents\Visual Studio 2013\Projects\SFApi\_Utilities\bin\DEV\System.Web.WebPages.Deployment.dll
+C:\Users\reedj\Documents\Visual Studio 2013\Projects\SFApi\_Utilities\bin\DEV\Newtonsoft.Json.xml
+C:\Users\reedj\Documents\Visual Studio 2013\Projects\SFApi\_Utilities\bin\DEV\System.Web.Mvc.xml
+C:\Users\reedj\Documents\Visual Studio 2013\Projects\SFApi\_Utilities\bin\DEV\System.Web.Razor.xml
+C:\Users\reedj\Documents\Visual Studio 2013\Projects\SFApi\_Utilities\bin\DEV\System.Web.WebPages.Razor.xml
+C:\Users\reedj\Documents\Visual Studio 2013\Projects\SFApi\_Utilities\bin\DEV\System.Web.WebPages.xml
+C:\Users\reedj\Documents\Visual Studio 2013\Projects\SFApi\_Utilities\bin\DEV\System.Web.WebPages.Deployment.xml
+C:\Users\reedj\Documents\Visual Studio 2013\Projects\SFApi\_Utilities\obj\DEV\_Utilities.csprojResolveAssemblyReference.cache
+C:\Users\reedj\Documents\Visual Studio 2013\Projects\SFApi\_Utilities\obj\DEV\GKUtilities.dll
